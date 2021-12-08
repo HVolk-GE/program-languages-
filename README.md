@@ -4,8 +4,7 @@
 #
 # C#, C++, JAVA, HTML, PHP, JavaScript, Python.
 #
-# Following 
-# there will probably be some more to follow
+# Following there will probably be some more to follow
 #
 # Used program-languages at the past:
 # VBA, VB, VB.Net, Lotus-Script, JavaScript, Delphi (Pascal).
